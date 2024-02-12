@@ -37,3 +37,5 @@ const Categories = () => {
 };
 
 export default Categories;
+
+//1.38 min
