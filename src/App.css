@@ -19,3 +19,9 @@
   .title {
     @apply text-4xl md:text-5xl font-bold my-2 leading-snug
   }
+
+  .heartStar {
+    border-radius: 2px 25px 2px 25px;
+    background: #39DB4A;
+  }
+
